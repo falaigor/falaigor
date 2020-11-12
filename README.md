@@ -2,10 +2,8 @@
 
 ### 👋 Hello, I'm Igor!
 
-💻 Engineering Manager at [@loadsmart](https://github.com/loadsmart/) <br>
-🏡 Brazilian, Based in Brooklyn, NY. 
-
-My name is Igor Santos. I'm from Brazil. I'm Frontend Developer at [Mídia13 Propaganda](https://midia13.com.br).
+💻 FrontEnd Developer at [Mídia13 Propaganda](https://midia13.com.br/) <br>
+🏡 Brazilian, Based in Leme, SP. 
 
 In my free time I dedicate myself to studying and creating personal projects.
 
@@ -17,15 +15,9 @@ In my free time I dedicate myself to studying and creating personal projects.
 💼 [Linkedin](https://www.linkedin.com/in/falaigor/) <br>
 🤳 [Instagram](https://instagram.com/falaigors)
 
-
-### 📺 Latest video from my youtube channel (in portuguese)
-
-[![🤖 Habilitando Notificações de Deploy no SLACK via Netlify · Tutorial Netlify #4](http://img.youtube.com/vi/OzX7Rm0w87I/0.jpg)](http://www.youtube.com/watch?v=OzX7Rm0w87I "🤖 Habilitando Notificações de Deploy no SLACK via Netlify · Tutorial Netlify #4")
-
 Cheers!
 
 </samp>
-
 
 
 <!--
