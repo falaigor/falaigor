@@ -17,6 +17,8 @@ In my free time I dedicate myself to studying and creating personal projects.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=falaigor&repo=petlove-web)](https://github.com/falaigor/petlove-web)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=falaigor&repo=petlove-api)](https://github.com/falaigor/petlove-api)
+
 Cheers!
 
 </samp>
