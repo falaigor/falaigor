@@ -15,7 +15,7 @@ In my free time I dedicate myself to studying and creating personal projects.
 💼 [Linkedin](https://www.linkedin.com/in/falaigor/) <br>
 🤳 [Instagram](https://instagram.com/falaigors)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=falaigor&repo=petlove-web)](https://github.com/falaigor/petlove-web) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=falaigor&repo=petlove-api)](https://github.com/falaigor/petlove-api)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=falaigor&repo=petlove-web)](https://github.com/falaigor/petlove-web) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=falaigor&repo=petlove-api)](https://github.com/falaigor/petlove-api)-->
 
 
 
