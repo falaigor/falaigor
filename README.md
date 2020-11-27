@@ -1,11 +1,24 @@
 <samp>
 
-### 👋 Hello, I'm Igor!
 
-💻 FrontEnd Developer at [Mídia13 Propaganda](https://midia13.com.br/) <br>
-🏡 Brazilian, Based in Leme, SP. 
+# 👋 Hello, I'm Igor! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
-In my free time I dedicate myself to studying and creating personal projects.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/falaigor/)](https://www.linkedin.com/in/falaigor/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:alanworking1@gmail.com)](mailto:falaigors@gmail.com)
+
+```javascript
+  const me = await user.create({
+    name: 'Igor Santos',
+    age: 26,
+    city: ['Leme', 'SP'],
+    stack: ['Node.JS','ReactJs', 'ReactNative', 'Typescript', '(My|Postgre)SQL'],
+    work: 'FrontEnd Developer at Mídia13 Propaganda', 
+    hobby: 'In my free time I dedicate myself to studying and creating personal projects.'
+  });
+  
+  return response.status(201).send(me);
+```
+
 
 ![Igor's github stats](https://github-readme-stats.vercel.app/api?username=falaigor&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falaigor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,6 +35,7 @@ In my free time I dedicate myself to studying and creating personal projects.
 Cheers!
 
 </samp>
+
 
 
 <!--
