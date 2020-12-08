@@ -11,7 +11,7 @@
     name: 'Igor Santos',
     age: 26,
     city: ['Leme', 'SP'],
-    stack: ['Javascript', 'Node.JS','ReactJs', 'ReactNative', 'Typescript', '(My|Postgre)SQL'],
+    stack: ['Javascript', 'ReactJs', 'ReactNative', 'Typescript', '(My|Postgre)SQL'],
     work: 'FrontEnd Developer at Mídia13 Propaganda', 
     hobby: 'In my free time I dedicate myself to studying and creating personal projects.'
   });
