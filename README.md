@@ -3,9 +3,6 @@
 
 # 👋 Hello, I'm Igor! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/falaigor/)](https://www.linkedin.com/in/falaigor/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:falaigors@gmail.com)](mailto:falaigors@gmail.com)
-
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/falaigor/">
@@ -43,31 +40,18 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
-![Igor's github stats](https://github-readme-stats.vercel.app/api?username=falaigor&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falaigor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+**Utilities**
 
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=falaigor&repo=petlove-web)](https://github.com/falaigor/petlove-web) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=falaigor&repo=petlove-api)](https://github.com/falaigor/petlove-api)-->
+<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 
 
+![Igor's github stats](https://github-readme-stats.vercel.app/api?username=falaigor&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falaigor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Cheers!
 
 </samp>
 
-
-
-<!--
-**falaigor/falaigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
