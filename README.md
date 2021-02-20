@@ -21,7 +21,7 @@
     age: 26,
     city: ['Leme', 'SP'],
     stack: ['Javascript', 'ReactJs', 'ReactNative', 'Typescript', '(My|Postgre)SQL'],
-    work: 'FrontEnd Developer at Mídia13 Propaganda', 
+    work: 'FrontEnd Developer at Axur', 
     hobby: 'In my free time I dedicate myself to studying and creating personal projects.'
   });
   
