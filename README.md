@@ -5,20 +5,16 @@
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/falaigor/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-
-<a href="mailto:falaigors@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-@falaigors-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/falaigors)](https://twitter.com/falaigors)
+[![Linkedin Badge](https://img.shields.io/badge/-Igor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/falaigot/)](https://www.linkedin.com/in/falaigor/)
+[![Gmail Badge](https://img.shields.io/badge/-falaigors@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falaigors@gmail.com)](mailto:falaigors@gmail.com)
 
 <br/>
 
 ```javascript
   const me = await user.create({
     name: 'Igor Santos',
-    age: 26,
+    age: 27,
     city: ['Leme', 'SP'],
     stack: ['Javascript', 'ReactJs', 'ReactNative', 'Typescript', '(My|Postgre)SQL'],
     work: 'FrontEnd Developer at Axur', 
