@@ -1,7 +1,7 @@
 <img src="ilustra.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
 <p align="left"> 
- 🖖 Olá, meu nome é Igor Santos. Sou <strong>Front-end developer</strong> e <strong>UI Designer</strong>.
+ 🖖 Olá, meu nome é Igor Santos. Sou <strong>Front-end developer</strong>.
 </p>
 
 <p align="left">
