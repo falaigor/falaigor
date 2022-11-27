@@ -1,6 +1,6 @@
 ### Hi there! 😁 
 
-My name is Igor Santos from am Brazil (🇧🇷). I've been working as Front-End Developer since 2009 and currently I'm FrontEnd Developer at [Axur](https://axur.com/pt-br/home). I'm passionate about studying, and that's why living creating projects for upgrade my abilits.
+My name is Igor Santos from am Brazil (🇧🇷). I've been working as Front-End Developer since 2015 and currently I'm FrontEnd Developer at [Axur](https://axur.com/pt-br/home). I'm passionate about studying, and that's why living creating projects for upgrade my abilits.
 
 In my free time I like to play (and watch) RPG (🎲), to watch movies (🎞️) and series (📺), to read books (📚), to play acustic guitar, to listen to music (🎵) and eventually I like to play video games (🎮)
 
